@@ -1,6 +1,6 @@
 [![Strimzi](./documentation/logo/strimzi.png)](https://strimzi.io/)
 
-# Run Apache Kafka on Kubernetes and OpenShift
+# Run Apache Kafka cluster | Kubernetes and OpenShift
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/strimzi/strimzi-kafka-operator/badge)](https://scorecard.dev/viewer/?uri=github.com/strimzi/strimzi-kafka-operator)
 [![Build Status](https://dev.azure.com/cncf/strimzi/_apis/build/status/build?branchName=main)](https://dev.azure.com/cncf/strimzi/_build/latest?definitionId=16&branchName=main)
@@ -9,24 +9,24 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/strimziio?style=social)](https://twitter.com/strimziio)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/strimzi-kafka-operator)](https://artifacthub.io/packages/search?repo=strimzi-kafka-operator)
 
-Strimzi provides a way to run an [Apache Kafka®][kafka] cluster on 
-[Kubernetes][k8s] or [OpenShift][os] in various deployment configurations.
-See our [website][strimzi] for more details about the project.
+* -- via -- various deployment configurations
+* see [website][strimzi]
 
 ## Quick Starts
 
-To get up and running quickly, check our [Quick Start for Minikube, OKD (OpenShift Origin) and Kubernetes Kind](https://strimzi.io/quickstarts/). 
+* see [Quick Start for Minikube, OKD (OpenShift Origin) and Kubernetes Kind](https://github.com/dancer1325/strimzi.github.io) 
 
 ## Documentation
 
-Documentation for the current _main_ branch as well as all releases can be found on our [website][strimzi].
+* [here](documentation)
 
 ## Roadmap
 
-The roadmap of the Strimzi Operator project is maintained as [GitHub Project](https://github.com/orgs/strimzi/projects/4).
+[GitHub Project](https://github.com/orgs/strimzi/projects/4)
 
 ## Getting help
 
+* TODO:
 If you encounter any issues while using Strimzi, you can get help using:
 
 - [#strimzi channel on CNCF Slack](https://slack.cncf.io/)
